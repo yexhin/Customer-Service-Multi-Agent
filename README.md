@@ -25,5 +25,6 @@ The customer service includes three subagents:
 
 ## 🧩 Operation
 - With each subagent, I instructed them following the main mission
+  ![workflow](images/customerSercAgent.png)
 
 
