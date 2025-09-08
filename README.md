@@ -61,7 +61,7 @@ GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 ```
 
-## Key components
+## ⛓ Key components
 ### Customers Interaction Database
 The customer service is designed as a **stateful multi-agent system**.  
 To make the agents behave more realistically, I implemented persistent memory:  
@@ -81,7 +81,7 @@ session_service = DatabaseSessionService(db_url=db_url)
 ```
 The system simulates how a real customer service team would recall past conversations and order history, improving both automation and customer satisfaction. 
 
-### SubAgents
+### 🕹 SubAgents
 **Policy Agent**
 ```python
 policyAgent = Agent(
