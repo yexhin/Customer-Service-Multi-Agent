@@ -41,7 +41,7 @@ These above subagents would be routed by the **OrchestratorAgent**.
 ## 🧩 Operation
 The diagram below shows how the agents work together to handle customer service automatically:
 
-![Architecture](images/architecture.png)
+![Architecture](images/customerSercAgent.png)
 
 ## ⚙️ Installation
 This project is powered by **Google Agent Development Kit (ADK)** with some helper libraries.
