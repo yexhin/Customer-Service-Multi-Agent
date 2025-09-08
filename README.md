@@ -23,6 +23,7 @@ The customer service includes three subagents:
    - Assist with reorders based on previous purchases  
    - **ToolContext:** `trackingOrder`, `cancelOrder`, `refund`, `reorder`
 
-## 🧩 Usage
+## 🧩 Operation
+- With each subagent, I instructed them following the main mission
 
 
